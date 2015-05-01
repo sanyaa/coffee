@@ -45,7 +45,7 @@
     "org.apache.cordova.splashscreen",
     "org.apache.cordova.statusbar"
   ],
-  "DisplayName": "",
+  "DisplayName": "coffee",
   "WP8SupportedResolutions": [
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
